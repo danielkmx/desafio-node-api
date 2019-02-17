@@ -1,5 +1,0 @@
-{
-    "env":{
-        "MONGO_PW": "database123"
-    }
-}

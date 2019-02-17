@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha -- api/test/*.js",
-    "start": "SET NODE_ENV=dev && nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
