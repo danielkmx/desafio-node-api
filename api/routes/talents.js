@@ -83,7 +83,7 @@ router.post('/',  (req,res,next) => {
             } 
         })
     }).
-    catch(err => {
+    catch(err => { 
         console.log(err);
         res.status(500).json({
             error: err
